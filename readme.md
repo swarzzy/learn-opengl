@@ -11,11 +11,9 @@ Original Learn OpenGL course provides some really nasty and bad practices ragard
 ***You will need Visual Studio 2022***
 
 ## Steps to setup basic OpenGL environment
-<br>
 
 ### **Installing GLFW <em>(library for creating window and OpenGL context)</em>**
 
-<br>
 
 1. Download GLFW prebuilt binaries for x64 ([GLFW Binaries](https://www.glfw.org/download.html))
 
