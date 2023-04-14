@@ -33,7 +33,13 @@ Path: `$(SolutionDir)vendors\glfw\lib-vc2022\glfw3.lib`
 
 ![](docs/images/2.png)
 
-6. Include GLFW to your Main.cpp
+6. Add OpenGL library to the list of project libraries.
+
+`opengl32.lib`
+
+![](docs/images/2_1.png)
+
+7. Include GLFW to your Main.cpp
 ```
 #include <glfw/glfw3.h>
 
@@ -41,7 +47,7 @@ int main()
 {
 }
 ```
-7. Build the project. It should compile successfully.
+8. Build the project. It should compile successfully.
 
 <br><br>
 ### **Installing GLFW <em>(library for creating window and OpenGL context)</em>**
