@@ -50,7 +50,7 @@ int main()
 8. Build the project. It should compile successfully.
 
 <br><br>
-### **Installing GLFW <em>(library for creating window and OpenGL context)</em>**
+### **Installing GLAD <em>(library for creating window and OpenGL context)</em>**
 <br>
 
 1. Go to [[Link](https://glad.dav1d.de/)] and generate library sources. Set all parameters as on screenshot and press generate
